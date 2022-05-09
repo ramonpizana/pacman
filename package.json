@@ -8,6 +8,10 @@
     "start": "node .",
     "dev": "nodemon ."
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ramonpizana/pacman"
+},
   "license": "GPLv3",
   "dependencies": {
     "body-parser": "^1.17.1",
@@ -19,3 +23,4 @@
     "nodemon": "^1.11.0"
   }
 }
+

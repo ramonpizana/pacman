@@ -12,7 +12,8 @@
   "type": "git",
   "url": "https://github.com/ramonpizana/pacman"
 },
-  "license": "GPLv3",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.14.1",
